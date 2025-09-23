@@ -42,18 +42,18 @@ Ich bin ein leidenschaftlicher Entwickler mit tiefgreifender Erfahrung in der IT
 
 ## GitHub Statistiken
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=watafakosvikdev&show_icons=true&theme=default&hide_border=true&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=watafakoviskdev&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watafakosvikdev&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=watafakoviskdev&layout=compact&theme=default&hide_border=true)
 
 ## Beitragsaktivität
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=watafakosvikdev&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernamewatafakoviskdev&theme=github-compact)
 
 ## Profil-Metriken
 
-![Profile Views](https://komarev.com/ghpvc/?username=watafakosvikdev&color=blue&style=flat)
-![GitHub followers](https://img.shields.io/github/followers/watafakosvikdev?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=watafakoviskdev&color=blue&style=flat)
+![GitHub followers](https://img.shields.io/github/followers/watafakoviskdev?label=Followers&style=social)
 
 ## Aktuelle Projekte
 
