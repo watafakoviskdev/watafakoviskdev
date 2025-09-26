@@ -38,7 +38,7 @@ Ich bin ein leidenschaftlicher Entwickler mit tiefgreifender Erfahrung in der IT
 
 ## Beitragsaktivität
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?usernamewatafakoviskdev&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=watafakoviskdev&theme=github-compact)
 
 ## Profil-Metriken
 
