@@ -55,13 +55,11 @@ Ich bin ein leidenschaftlicher Entwickler mit tiefgreifender Erfahrung in der IT
 Derzeit arbeite ich an der Verbesserung meiner Kenntnisse in:
 - Distributed Systems
 - Machine Learning Operations (MLOps)
-- Web3 & Blockchain Technologien
 - Advanced Cloud Patterns
 - Cybersecurity
 
 ## Community Engagement
 
-- Aktiver Teilnehmer in Tech-Meetups und Konferenzen
 - Open Source Contributor
 - Mentor für Junior Entwickler
 - Tech Blog Autor
