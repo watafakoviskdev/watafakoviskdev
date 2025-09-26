@@ -10,28 +10,18 @@ Ich bin ein leidenschaftlicher Entwickler mit tiefgreifender Erfahrung in der IT
 - Python
 - JavaScript/TypeScript
 - Java
-- C#
-- Go
-- Rust
-- SQL
+- - SQL
 
 **Frameworks & Technologien:**
 - React/Next.js
 - Node.js/Express
-- Django/FastAPI
-- .NET Core
-- Docker/Kubernetes
-- Microservices
-- GraphQL/REST APIs
+- REST APIs
 
 **Tools & Plattformen:**
 - Git/GitHub/GitLab
 - VS Code/IntelliJ
-- AWS/Azure/GCP
 - Linux/Windows Server
 - PostgreSQL/MongoDB/Redis
-- Jenkins/GitHub Actions
-- Terraform/Ansible
 
 **Spezialbereiche:**
 - DevOps & CI/CD
@@ -55,28 +45,10 @@ Ich bin ein leidenschaftlicher Entwickler mit tiefgreifender Erfahrung in der IT
 ![Profile Views](https://komarev.com/ghpvc/?username=watafakoviskdev&color=blue&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/watafakoviskdev?label=Followers&style=social)
 
-## Aktuelle Projekte
-
-Hier sind einige meiner bemerkenswerten Projekte:
-
-- **Enterprise Web Application** - Skalierbare Webanwendung mit React/Node.js und Microservices-Architektur
-- **DevOps Automation Suite** - CI/CD Pipeline und Infrastructure-as-Code Lösungen
-- **Performance Monitoring Tool** - Real-time System Monitoring mit Python und Grafana Integration
-
-## IT-Erfahrung
-
-**Senior Software Engineer** - Tech Unternehmen  
-*2022 - Heute*  
-Entwicklung von Enterprise-Lösungen, Teamleitung, Architekturentscheidungen
-
-**Full Stack Developer** - Startup  
-*2020 - 2022*  
-Aufbau moderner Web-Applikationen, DevOps-Implementierung
-
 ## Kontaktinformationen
 
 - **E-Mail:** watafakosvikdev@ixnix.dev
-- **Portfolio:** [Meine Website](https://yourwebsite.com)
+- **Portfolio:** [Meine Website](https://ixnix.dev)
 
 ## Aktueller Fokus
 
